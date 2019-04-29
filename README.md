@@ -5,4 +5,5 @@ argument 1 - input file
 
 argument 2 - output file
 
-May require downloading pygame, or maybe not, I'm not quite sure
+Requires installation of pygame via python-pip.
+Requires python (2) not python3.
