@@ -3,8 +3,7 @@ import sys
 
 pygame.init()
  
-
-print sys.argv[1]
+print (sys.argv[1])
 # my stuff
 image = pygame.image.load(sys.argv[1])
 
